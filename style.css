@@ -5,6 +5,9 @@ body {
     background-color: #f4f4f4;
     color: red;
 }
+h1, h2, h3, p, ul, li, a {
+    color: red; /* Set red color for headings, paragraphs, lists, and links */
+}
 
 .container {
     max-width: 900px;
